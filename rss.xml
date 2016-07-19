@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[velvetcowboy]]></title>
+        <description><![CDATA[velvetcowboy]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Jul 2016 17:37:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Noel & Pat Thomas - The Seaview]]></title>
+            <description><![CDATA[<article><h1>Noel & Pat Thomas - The Seaview</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a13bb29d-0ef5-42de-b5e8-fd4a98ef3769.jpg"></article>]]></description>
+            <link>undefinednoel-and-pat-thomas-the-seaview/index.html</link>
+            <guid isPermaLink="false">f020da0c-7646-472f-afdc-d3ecb73dba6c</guid>
+            <pubDate>Mon, 18 Jul 2016 17:37:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
